@@ -1,2 +1,1 @@
-# blog
-just a demo
+Just a demo!!
